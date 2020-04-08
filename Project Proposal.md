@@ -1,3 +1,7 @@
+# Title: 
+
+  Find an interesting title to represent your idea.
+
 # Problem Description:
   
   In at least seven to ten sentences, explain the problem your team is planning to address. Also, mention why this problem is 
