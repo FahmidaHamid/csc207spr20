@@ -5,7 +5,7 @@
 ## We plan to use git for the project.
 -------------------------------------------------------------
 -------------------------------------------------------------
-## Our possible project ideas are:
+## Our possible project ideas (suggestions) are:
 
 - Building social network (like facebook)
 
@@ -20,6 +20,18 @@
 - Encryption
 
 - Web browser
+
+- Extending the Keyphrase extraction algorithm
+
+- Implementing a simple API for music lovers
+
+- Designing an app like a stopwatch 
+
+- Implementing data visualizer for showing information from particular dataset in an efficient and user friendly way
+
+- Educational Games 
+
+- Crossword Puzzless
 
 ## Policy:
 
