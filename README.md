@@ -5,7 +5,7 @@
 
 ### Our possible project ideas (suggestions) are:
 
-- Building social network (like facebook)
+- Building a social network (like Facebook)
 
 - Building a knowledge graph to extract (and generate new) knowledge
 
@@ -25,11 +25,11 @@
 
 - Designing an app like a stopwatch 
 
-- Implementing data visualizer for showing information from particular dataset in an efficient and user friendly way
+- Implementing a data visualizer for showing information from particular dataset in an efficient and user-friendly way
 
 - Educational Games 
 
-- Crossword Puzzless
+- Crossword Puzzles
 
 ## Policy:
 
