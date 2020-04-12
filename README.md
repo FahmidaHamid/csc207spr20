@@ -1,11 +1,9 @@
 # CSC 207 Project
 ## Spring 2020
--------------------------------------------------------------
--------------------------------------------------------------
-## We plan to use git for the project.
--------------------------------------------------------------
--------------------------------------------------------------
-## Our possible project ideas (suggestions) are:
+
+### We plan to use git for the project.
+
+### Our possible project ideas (suggestions) are:
 
 - Building social network (like facebook)
 
